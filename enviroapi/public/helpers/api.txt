@@ -1,0 +1,105 @@
+Opracowanie aplikacji webowej integrującej wybrane API do prezentacji aktualnych parametrów jakości środowiska
+
+
+
+https://api.prognozy.ios.edu.pl/v1/PM10/2407 - zanieczyszczenia przez teryt (wczoraj, dzisiaj, jutro) https://api.prognozy.ios.edu.pl/
+https://danepubliczne.imgw.pl/api/data/synop - pogoda teraz https://danepubliczne.imgw.pl/pl/apiinfo
+http://danepubliczne.imgw.pl/api/data/hydro/ - dane hydrologiczne https://danepubliczne.imgw.pl/pl/apiinfo
+https://edwin-meteo.apps.paas.psnc.pl/observationStation/location/52.4038412/16.9261668?active=true&distance=50&page=0&size=50 - dane agrometeorologiczne https://www.edwin.gov.pl/meteo-api
+
+http://smog.imgw.pl/home
+
+
+dane stacje imgw - https://klimat.imgw.pl/pl/jednolite-serie-danych
+https://klimatolodzy.pl/index.php/pl/zasoby-internetowe/bazy-danych-klimatycznych
+http://klimat.icm.edu.pl/
+https://klimat.imgw.pl/pl/meta-dane/
+
+
+wspolrzedne hydro
+https://hydro-back.imgw.pl/station/hydro/status?id=151180050
+
+-- czas z api 
+    https://worldtimeapi.org/
+    https://timeapi.io/swagger/index.html
+
+-- wyświetlanie tła strony w zależności od czasu i pogody (może inne kolory)
+
+-- wyświetlanie ikon pogody w zależności od czasu i pogody
+
+--wyświelanie ikon zanieczyszczenia w zależności od stopnia zanieczyszczenia
+
+--funkcje w trybie pełnoekranowym mapy
+        np filtrowanie
+
+--w pogodzie kierunek wiatru zamienić na północny, wschodni południowy itd... ZROBIONE
+
+--input wpisz lokalizację - zamienic na wpisz Miejscowość ZROBIONE
+
+--przeszukiwać stacje w znalezieniu najbliższej po samych lokalizacjach
+    najpierw utworzyc plik z lokalizacjami ZROBIONE     trzeba jeszcze zrobic oddzielne poszkiwanie najbliższej stacji
+                                                        lub przerobić NearestStation na to żeby tworzyło strukturę posortowaną rosnąco względem odległości od lokalizacji
+
+https://wnozigp.maps.arcgis.com/apps/dashboards/a745edd2484947ddb5acf2c63e0aaa09
+
+
+metadane stacji snoptycznych: https://klimat.imgw.pl/pl/jednolite-serie-danych zip -> csv -> geojson
+
+przerobione pobieranie lokalizacji - lokalizacje zostały pobrane na sztywno, raz
+
+
+
+https://womanonrails.com/pl/leaflet
+
+
+
+
+
+https://devmentor.pl/b/github-pages-podglad-projektu-na-githubie
+
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+https://kursjs.pl/kurs/wstep/o-javascript
+file:///C:/Users/weron/Downloads/kurs%20javascript.pdf
+https://pl.wikipedia.org/wiki/JavaScript
+
+jakość środowiska
+https://www.encyklopedialesna.pl/haslo/jakosc-srodowiska/
+
+React
+https://library.kre.dp.ua/Books/2-4%20kurs/%D0%9C%D0%BE%D0%B2%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/JavaScript/Learning_React_Modern_Patterns_for_Developing_React_Apps_by_Alex.pdf
+https://legacy.reactjs.org/
+https://react.dev/
+
+Leaflet
+https://en.wikipedia.org/wiki/United_States_Geological_Survey
+https://github.com/Leaflet/Leaflet
+https://leafletjs.com/
+
+Axios
+https://axios-http.com/docs/intro
+https://boringowl.io/tag/axios
+
+API:
+https://pl.wikipedia.org/wiki/Interfejs_programowania_aplikacji
+file:///C:/Users/weron/Downloads/Application_Programming_Interface_API_Research_A_R.pdf
+https://aws.amazon.com/what-is/api/
+przykład api
+https://www.usgs.gov/sciencebase-instructions-and-documentation/api-and-web-services
+https://developers.google.com/maps?hl=pl
+https://wiki.openstreetmap.org/wiki/API_v0.6
+https://developer.paypal.com/api/rest/
+https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32015L2366
+https://www.gov.pl/web/finanse/ramy-prawne-dot-platnosci-i-otwartej-bankowosci-implementacja-dyrektywy-psd2
+https://developers.facebook.com/docs/graph-api/
+https://developer.x.com/en/docs/x-api
+
+
+Node.js
+https://nodejs.org/en
+https://boringowl.io/tag/nodejs
+https://www.w3schools.com/nodejs/
+
+Express
+https://expressjs.com/en/5x/api.html

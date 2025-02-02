@@ -1,0 +1,24 @@
+.station-heading-container,
+.distance-container {
+  text-align: center;
+}
+
+.station-heading-container {
+  margin-bottom: 10px;
+  color: rgb(47, 31, 90);
+}
+
+.distance-container {
+  margin-top: 20px;
+}
+
+details {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 10px;
+}
+
+details ul {
+  list-style-type: none;
+  padding: 0;
+}

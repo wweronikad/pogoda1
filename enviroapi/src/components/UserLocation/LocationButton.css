@@ -1,0 +1,15 @@
+.location-button {
+  width: 95%;
+  height: 6vh;
+  border: none;
+  border-radius: 9999px;
+  background: linear-gradient(to top right, #88b1e6, #486197);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  outline: none;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  font-size: medium;
+  font-family: 'Arial', sans-serif;
+}

@@ -1,0 +1,32 @@
+.App {
+  /* text-align: center; */
+  background-image: url('./backgrounds/clear_sky.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Ensure the content takes the full height including the header */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 8vh; /* Add padding to account for the fixed header */
+}
+
+.leaflet-container {
+  width: 100%; /* Set the width to 100% */
+  height: 100%; /* Set the height to 100% */
+}
+
+.nearest-stations-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.nearest-station {
+  flex: 1;
+  margin: 0 10px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+}

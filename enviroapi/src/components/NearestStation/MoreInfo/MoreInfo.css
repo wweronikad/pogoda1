@@ -1,0 +1,22 @@
+details {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 20px;
+}
+
+details ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.trend-text {
+  white-space: pre-wrap;
+  font-family: monospace;
+  margin-left: 20px;
+  font-size: small;
+}
+
+.trend-icon {
+  width: 13px;
+  height: 13px;
+}

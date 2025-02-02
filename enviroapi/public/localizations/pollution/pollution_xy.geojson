@@ -1,0 +1,2917 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.141125,
+                    51.115933
+                ]
+            },
+            "properties": {
+                "id": 114,
+                "name": "Wrocław, ul. Bartnicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.02925,
+                    51.129378
+                ]
+            },
+            "properties": {
+                "id": 117,
+                "name": "Wrocław, wyb. Conrada-Korzeniowskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.012689,
+                    51.086225
+                ]
+            },
+            "properties": {
+                "id": 129,
+                "name": "Wrocław, al. Wiśniowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.180513,
+                    51.204503
+                ]
+            },
+            "properties": {
+                "id": 52,
+                "name": "Legnica, al. Rzeczypospolitej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.269677,
+                    50.768729
+                ]
+            },
+            "properties": {
+                "id": 109,
+                "name": "Wałbrzych, ul. Wysockiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.31219,
+                    50.912475
+                ]
+            },
+            "properties": {
+                "id": 11,
+                "name": "Czerniawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.64805,
+                    50.732817
+                ]
+            },
+            "properties": {
+                "id": 16,
+                "name": "Dzierżoniów, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.65366,
+                    50.433493
+                ]
+            },
+            "properties": {
+                "id": 38,
+                "name": "Kłodzko, ul. Szkolna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.291333,
+                    50.942073
+                ]
+            },
+            "properties": {
+                "id": 70,
+                "name": "Oława, ul. Żołnierzy Armii Krajowej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.431719,
+                    51.31763
+                ]
+            },
+            "properties": {
+                "id": 74,
+                "name": "Osieczów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.765608,
+                    50.913433
+                ]
+            },
+            "properties": {
+                "id": 9153,
+                "name": "Jelenia Góra, ul. Ogińskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.498245,
+                    50.581492
+                ]
+            },
+            "properties": {
+                "id": 11254,
+                "name": "Nowa Ruda, ul. Jeziorna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.071367,
+                    51.304817
+                ]
+            },
+            "properties": {
+                "id": 11934,
+                "name": "Trzebnica, ul. 3 Maja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.348469,
+                    50.969633
+                ]
+            },
+            "properties": {
+                "id": 12055,
+                "name": "Strzegom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.929804,
+                    51.27428
+                ]
+            },
+            "properties": {
+                "id": 12056,
+                "name": "Chojnów, ul. S. Małachowskiego "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.243756,
+                    50.438363
+                ]
+            },
+            "properties": {
+                "id": 17780,
+                "name": "Kudowa-Zdrój, ul. Szkolna "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.987906,
+                    53.121764
+                ]
+            },
+            "properties": {
+                "id": 156,
+                "name": "Bydgoszcz, pl. Poznański"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.995708,
+                    53.134083
+                ]
+            },
+            "properties": {
+                "id": 158,
+                "name": "Bydgoszcz, ul. Warszawska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.958101,
+                    51.784252
+                ]
+            },
+            "properties": {
+                "id": 16237,
+                "name": "Lubsko, ul. Strzelecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.708042,
+                    51.809103
+                ]
+            },
+            "properties": {
+                "id": 16613,
+                "name": "Nowa Sól"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.529786,
+                    51.75805
+                ]
+            },
+            "properties": {
+                "id": 295,
+                "name": "Łódź, ul. Czernika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.450992,
+                    51.775378
+                ]
+            },
+            "properties": {
+                "id": 296,
+                "name": "Łódź, ul. Gdańska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.368683,
+                    51.667981
+                ]
+            },
+            "properties": {
+                "id": 314,
+                "name": "Pabianice, ul. Konstantynowska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.421231,
+                    51.856692
+                ]
+            },
+            "properties": {
+                "id": 355,
+                "name": "Zgierz, ul. Mielczarskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.434925,
+                    51.754613
+                ]
+            },
+            "properties": {
+                "id": 10058,
+                "name": "Łódź, al. Jana Pawła II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.233217,
+                    52.143258
+                ]
+            },
+            "properties": {
+                "id": 291,
+                "name": "Gajew, Ujęcie Wody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.517556,
+                    51.291175
+                ]
+            },
+            "properties": {
+                "id": 319,
+                "name": "Parzniewice, Ujęcie Wody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.696956,
+                    51.404406
+                ]
+            },
+            "properties": {
+                "id": 322,
+                "name": "Piotrków Trybunalski, ul. Krakowskie Przedmieście"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.448714,
+                    51.067417
+                ]
+            },
+            "properties": {
+                "id": 331,
+                "name": "Radomsko, ul. Rolna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.429892,
+                    52.053811
+                ]
+            },
+            "properties": {
+                "id": 562,
+                "name": "Żyrardów, ul. Roosevelta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.288167,
+                    52.943172
+                ]
+            },
+            "properties": {
+                "id": 9913,
+                "name": "Guty Duże"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6451,
+                    52.602534
+                ]
+            },
+            "properties": {
+                "id": 11358,
+                "name": "Biała, ul. Kmicica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.124598,
+                    52.082277
+                ]
+            },
+            "properties": {
+                "id": 16271,
+                "name": "Konstancin-Jeziorna, ul. Żeromskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.072603,
+                    52.703591
+                ]
+            },
+            "properties": {
+                "id": 17160,
+                "name": "Pułtusk, ul. Mickiewicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.950278,
+                    50.676856
+                ]
+            },
+            "properties": {
+                "id": 590,
+                "name": "Opole, os. Armii Krajowej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.899137,
+                    50.666736
+                ]
+            },
+            "properties": {
+                "id": 10374,
+                "name": "Opole, ul. Koszyka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.236575,
+                    50.349608
+                ]
+            },
+            "properties": {
+                "id": 568,
+                "name": "Kędzierzyn-Koźle, ul. Śmiałego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.416878,
+                    50.876983
+                ]
+            },
+            "properties": {
+                "id": 584,
+                "name": "Olesno, ul. Słowackiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.120739,
+                    50.423533
+                ]
+            },
+            "properties": {
+                "id": 600,
+                "name": "Zdzieszowice, ul. Piastów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.331906,
+                    50.458989
+                ]
+            },
+            "properties": {
+                "id": 8976,
+                "name": "Nysa, ul. Rodziewiczówny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.83051,
+                    50.200778
+                ]
+            },
+            "properties": {
+                "id": 10018,
+                "name": "Głubczyce, ul. Ratuszowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.288206,
+                    50.509334
+                ]
+            },
+            "properties": {
+                "id": 16181,
+                "name": "Strzelce Opolskie, ul. Kard. Wyszyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.462579,
+                    50.849509
+                ]
+            },
+            "properties": {
+                "id": 16413,
+                "name": "Brzeg, ul. Poprzeczna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.010575,
+                    50.024242
+                ]
+            },
+            "properties": {
+                "id": 671,
+                "name": "Rzeszów, ul. Rejtana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.004656,
+                    50.040675
+                ]
+            },
+            "properties": {
+                "id": 10125,
+                "name": "Rzeszów, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.047937,
+                    50.024856
+                ]
+            },
+            "properties": {
+                "id": 17159,
+                "name": "Rzeszów, ul. Słocińska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.980511,
+                    50.060381
+                ]
+            },
+            "properties": {
+                "id": 17179,
+                "name": "Rzeszów, ul. Starzyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.674772,
+                    50.012083
+                ]
+            },
+            "properties": {
+                "id": 631,
+                "name": "Jarosław, ul. Pruchnicka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.454617,
+                    49.744886
+                ]
+            },
+            "properties": {
+                "id": 638,
+                "name": "Jaslo, ul. Sikorskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7497,
+                    49.690169
+                ]
+            },
+            "properties": {
+                "id": 646,
+                "name": "Krosno, ul. Kletówki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.112467,
+                    50.529892
+                ]
+            },
+            "properties": {
+                "id": 659,
+                "name": "Nisko, ul. Szklarniowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.756239,
+                    49.784339
+                ]
+            },
+            "properties": {
+                "id": 665,
+                "name": "Przemyśl, ul. Grunwaldzka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.195892,
+                    49.571731
+                ]
+            },
+            "properties": {
+                "id": 678,
+                "name": "Sanok, ul. Sadowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.688367,
+                    50.575742
+                ]
+            },
+            "properties": {
+                "id": 684,
+                "name": "Tarnobrzeg, ul. Dąbrowskiej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.307681,
+                    54.305908
+                ]
+            },
+            "properties": {
+                "id": 870,
+                "name": " Gołdap, ul. Jaćwieska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.038056,
+                    54.124819
+                ]
+            },
+            "properties": {
+                "id": 882,
+                "name": "Diabla Góra, Puszcza Borecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.348338,
+                    53.828389
+                ]
+            },
+            "properties": {
+                "id": 10005,
+                "name": "Ełk, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.969041,
+                    53.694587
+                ]
+            },
+            "properties": {
+                "id": 10030,
+                "name": "Ostróda, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.168666,
+                    53.230042
+                ]
+            },
+            "properties": {
+                "id": 17741,
+                "name": "Działdowo, ul. Polna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.877289,
+                    52.420319
+                ]
+            },
+            "properties": {
+                "id": 944,
+                "name": "Poznań, ul. Dąbrowskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.998053,
+                    52.390879
+                ]
+            },
+            "properties": {
+                "id": 16493,
+                "name": "Poznań ul. Szwajcarska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.049063,
+                    51.74795
+                ]
+            },
+            "properties": {
+                "id": 952,
+                "name": "Kalisz, ul. Wyszyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.268927,
+                    52.22565
+                ]
+            },
+            "properties": {
+                "id": 902,
+                "name": "Konin, ul. Wyszyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.759572,
+                    53.154408
+                ]
+            },
+            "properties": {
+                "id": 920,
+                "name": "Pila, ul. Kusocińskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.773175,
+                    52.501318
+                ]
+            },
+            "properties": {
+                "id": 946,
+                "name": "Piaski, Krzyżówka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.074187,
+                    52.27672
+                ]
+            },
+            "properties": {
+                "id": 950,
+                "name": "Borówiec, ul. Drapałka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.791106,
+                    51.884922
+                ]
+            },
+            "properties": {
+                "id": 9218,
+                "name": "Pleszew, Al. Mickiewicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.999634,
+                    52.449295
+                ]
+            },
+            "properties": {
+                "id": 10834,
+                "name": "Koziegłowy, os.Leśne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.865125,
+                    52.241497
+                ]
+            },
+            "properties": {
+                "id": 16495,
+                "name": "Mosina, ul. Czereśniowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.636381,
+                    52.090436
+                ]
+            },
+            "properties": {
+                "id": 17438,
+                "name": "Kościan, ul. Maya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.663347,
+                    53.380975
+                ]
+            },
+            "properties": {
+                "id": 986,
+                "name": "Szczecin, ul. Andrzejewskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5539,
+                    53.432169
+                ]
+            },
+            "properties": {
+                "id": 987,
+                "name": "Szczecin, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.55625,
+                    53.470889
+                ]
+            },
+            "properties": {
+                "id": 989,
+                "name": "Szczecin_Łączna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.492946,
+                    54.172717
+                ]
+            },
+            "properties": {
+                "id": 16270,
+                "name": "Bytów, ul. Miła"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.655736,
+                    50.279481
+                ]
+            },
+            "properties": {
+                "id": 809,
+                "name": "Gliwice, ul. Mewy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.019469,
+                    50.246795
+                ]
+            },
+            "properties": {
+                "id": 813,
+                "name": "Katowice, ul. Plebiscytowa/A4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.975028,
+                    50.264611
+                ]
+            },
+            "properties": {
+                "id": 814,
+                "name": "Katowice, ul. Kossutha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.184399,
+                    50.285956
+                ]
+            },
+            "properties": {
+                "id": 837,
+                "name": "Sosnowiec, ul. Lubelska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.990236,
+                    50.099903
+                ]
+            },
+            "properties": {
+                "id": 841,
+                "name": "Tychy, ul. Tołstoja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.771258,
+                    50.317072
+                ]
+            },
+            "properties": {
+                "id": 17880,
+                "name": "Zabrze, ul. M. Skłodowskiej-Curie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.516139,
+                    50.111181
+                ]
+            },
+            "properties": {
+                "id": 834,
+                "name": "Rybnik, ul. Borki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.607953,
+                    49.952544
+                ]
+            },
+            "properties": {
+                "id": 11855,
+                "name": "Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.027318,
+                    49.813464
+                ]
+            },
+            "properties": {
+                "id": 789,
+                "name": "Bielsko-Biała, ul. Kossak-Szczuckiej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.04861,
+                    49.802075
+                ]
+            },
+            "properties": {
+                "id": 10158,
+                "name": "Bielsko-Biała, ul.Partyzantów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.118997,
+                    50.817217
+                ]
+            },
+            "properties": {
+                "id": 798,
+                "name": "Częstochowa, ul. AK/Jana Pawła II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.130111,
+                    50.836389
+                ]
+            },
+            "properties": {
+                "id": 800,
+                "name": "Częstochowa, ul. Baczyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.826722,
+                    49.719731
+                ]
+            },
+            "properties": {
+                "id": 842,
+                "name": "Ustroń, ul. Sanatoryjna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.455548,
+                    50.007629
+                ]
+            },
+            "properties": {
+                "id": 845,
+                "name": "Wodzisław Śląski, ul. Gałczyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.458797,
+                    50.710889
+                ]
+            },
+            "properties": {
+                "id": 853,
+                "name": "Złoty Potok, Leśniczówka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.234446,
+                    49.671602
+                ]
+            },
+            "properties": {
+                "id": 856,
+                "name": "Żywiec, ul. Kopernika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.659977,
+                    50.16385
+                ]
+            },
+            "properties": {
+                "id": 9000,
+                "name": "Czerwionka-Leszczyny, ul. Kopalniana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.682065,
+                    50.675693
+                ]
+            },
+            "properties": {
+                "id": 11278,
+                "name": "Lubliniec, ul. ks. Szymały"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.439012,
+                    50.493045
+                ]
+            },
+            "properties": {
+                "id": 11455,
+                "name": "Zawiercie, ul. K.I.Gałczyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.975594,
+                    49.93785
+                ]
+            },
+            "properties": {
+                "id": 11457,
+                "name": "Goczałkowice Zdrój, ul. Parkowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.216261,
+                    50.091142
+                ]
+            },
+            "properties": {
+                "id": 11794,
+                "name": "Racibórz, Wojska Polskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.634075,
+                    49.755989
+                ]
+            },
+            "properties": {
+                "id": 16406,
+                "name": "Cieszyn, ul. Chopina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.633692,
+                    50.878998
+                ]
+            },
+            "properties": {
+                "id": 11195,
+                "name": "Kielce, ul. Targowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.642858,
+                    50.886014
+                ]
+            },
+            "properties": {
+                "id": 16196,
+                "name": "Kielce, ul. Warszawska 108"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.533506,
+                    50.823108
+                ]
+            },
+            "properties": {
+                "id": 769,
+                "name": "Nowiny, ul. Parkowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.277367,
+                    50.429014
+                ]
+            },
+            "properties": {
+                "id": 778,
+                "name": "Połaniec, ul. Ruszczańska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.084175,
+                    51.050611
+                ]
+            },
+            "properties": {
+                "id": 785,
+                "name": "Starachowice, ul. Złota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.266032,
+                    50.80961
+                ]
+            },
+            "properties": {
+                "id": 10794,
+                "name": "Małogoszcz, ul. Słoneczna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.614057,
+                    50.621482
+                ]
+            },
+            "properties": {
+                "id": 11754,
+                "name": "Gołuchów, Ujęcie Wody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.081224,
+                    50.778479
+                ]
+            },
+            "properties": {
+                "id": 12138,
+                "name": "Łagów, ul. Zapłotnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.891593,
+                    51.115842
+                ]
+            },
+            "properties": {
+                "id": 17758,
+                "name": "Skarżysko-Kamienna, ul. 1 Maja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.486075,
+                    53.789233
+                ]
+            },
+            "properties": {
+                "id": 877,
+                "name": " Olsztyn, ul. Puszkina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.410942,
+                    54.167847
+                ]
+            },
+            "properties": {
+                "id": 861,
+                "name": "Elbląg, ul. Bażyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.131433,
+                    51.589208
+                ]
+            },
+            "properties": {
+                "id": 11554,
+                "name": "Łask, ul. Narutowicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.353689,
+                    52.231908
+                ]
+            },
+            "properties": {
+                "id": 11616,
+                "name": "Kutno, ul. 1 Maja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.926189,
+                    50.057678
+                ]
+            },
+            "properties": {
+                "id": 400,
+                "name": "Kraków, Aleja Krasińskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.949189,
+                    50.010575
+                ]
+            },
+            "properties": {
+                "id": 401,
+                "name": "Kraków, ul. Bujaka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.053492,
+                    50.069308
+                ]
+            },
+            "properties": {
+                "id": 402,
+                "name": "Kraków, ul. Bulwarowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.895358,
+                    50.081197
+                ]
+            },
+            "properties": {
+                "id": 10123,
+                "name": "Kraków, ul. Złoty Róg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.018269,
+                    50.098508
+                ]
+            },
+            "properties": {
+                "id": 10139,
+                "name": "Kraków, os. Piastów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.122561,
+                    50.100569
+                ]
+            },
+            "properties": {
+                "id": 10447,
+                "name": "Kraków, os. Wadów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.97846,
+                    50.024605
+                ]
+            },
+            "properties": {
+                "id": 16896,
+                "name": "Kraków, ul. Kamieńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.004167,
+                    50.020169
+                ]
+            },
+            "properties": {
+                "id": 444,
+                "name": "Tarnów, ul. Bitwy pod Studziankami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.992578,
+                    50.018253
+                ]
+            },
+            "properties": {
+                "id": 10120,
+                "name": "Tarnów, ul. Ks. Romana Sitko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.714403,
+                    49.619281
+                ]
+            },
+            "properties": {
+                "id": 426,
+                "name": "Nowy Sącz, ul. Nadbrzeżna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.416256,
+                    50.054786
+                ]
+            },
+            "properties": {
+                "id": 9173,
+                "name": "Dębica, ul.Grottgera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.498606,
+                    49.511297
+                ]
+            },
+            "properties": {
+                "id": 9175,
+                "name": "Krempna, Ośrodek edukacyjno-muzealny MPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.851006,
+                    49.546539
+                ]
+            },
+            "properties": {
+                "id": 10414,
+                "name": "Rymanów Zdrój, ul. Parkowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.440942,
+                    50.299128
+                ]
+            },
+            "properties": {
+                "id": 10438,
+                "name": "Mielec, ul. Biernackiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.934094,
+                    49.981786
+                ]
+            },
+            "properties": {
+                "id": 12057,
+                "name": "Boguchwała, ul. Angermana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.181744,
+                    53.129306
+                ]
+            },
+            "properties": {
+                "id": 609,
+                "name": "Białystok, ul. Warszawska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.216322,
+                    53.144122
+                ]
+            },
+            "properties": {
+                "id": 11174,
+                "name": "Białystok, ul. 42 Pułku Piechoty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.161325,
+                    53.135286
+                ]
+            },
+            "properties": {
+                "id": 11814,
+                "name": "Białystok, al.Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.108025,
+                    53.129419
+                ]
+            },
+            "properties": {
+                "id": 17658,
+                "name": "Białystok, ul. Upalna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.642153,
+                    53.215492
+                ]
+            },
+            "properties": {
+                "id": 612,
+                "name": "Borsukowizna, Szkółka Leśna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.470274,
+                    53.639793
+                ]
+            },
+            "properties": {
+                "id": 9994,
+                "name": "Grajewo, ul. Wojska Polskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.938464,
+                    54.115897
+                ]
+            },
+            "properties": {
+                "id": 11154,
+                "name": "Suwałki, ul. Pułaskiego 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.984686,
+                    53.85255
+                ]
+            },
+            "properties": {
+                "id": 11916,
+                "name": "Augustów, Uzdrowisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.657497,
+                    54.400833
+                ]
+            },
+            "properties": {
+                "id": 731,
+                "name": "Gdańsk, ul. Wyzwolenia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.493331,
+                    54.560836
+                ]
+            },
+            "properties": {
+                "id": 732,
+                "name": "Gdynia, ul. Porębskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.620274,
+                    54.380279
+                ]
+            },
+            "properties": {
+                "id": 736,
+                "name": "Gdańsk, ul. Leczkowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.57884,
+                    54.43451
+                ]
+            },
+            "properties": {
+                "id": 16242,
+                "name": "Sopot, ul. Bitwy Pod Płowcami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.046722,
+                    54.463611
+                ]
+            },
+            "properties": {
+                "id": 725,
+                "name": "Słupsk, ul. Kniaziewicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.975861,
+                    54.120694
+                ]
+            },
+            "properties": {
+                "id": 740,
+                "name": "Kościerzyna, ul. Targowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.032899,
+                    54.031247
+                ]
+            },
+            "properties": {
+                "id": 741,
+                "name": "Malbork, ul. Mickiewicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.746194,
+                    54.546167
+                ]
+            },
+            "properties": {
+                "id": 742,
+                "name": "Lębork, ul. Malczewskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.182972,
+                    54.104111
+                ]
+            },
+            "properties": {
+                "id": 743,
+                "name": "Liniewko Kościerskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.534528,
+                    54.754139
+                ]
+            },
+            "properties": {
+                "id": 750,
+                "name": "Łeba, IMGW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.830422,
+                    49.971047
+                ]
+            },
+            "properties": {
+                "id": 437,
+                "name": "Skawina, os. Ogrody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.116833,
+                    49.633714
+                ]
+            },
+            "properties": {
+                "id": 443,
+                "name": "Szymbark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.477464,
+                    50.159406
+                ]
+            },
+            "properties": {
+                "id": 449,
+                "name": "Trzebinia, os. Związku Walki Młodych"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.212689,
+                    50.035117
+                ]
+            },
+            "properties": {
+                "id": 455,
+                "name": "Niepołomice, ul. 3 Maja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.960083,
+                    49.293564
+                ]
+            },
+            "properties": {
+                "id": 459,
+                "name": "Zakopane, ul. Sienkiewicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.259167,
+                    50.0075
+                ]
+            },
+            "properties": {
+                "id": 9179,
+                "name": "Szarów, ul. Spokojna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.726833,
+                    50.025028
+                ]
+            },
+            "properties": {
+                "id": 10119,
+                "name": "Kaszów"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.600339,
+                    49.743131
+                ]
+            },
+            "properties": {
+                "id": 10124,
+                "name": "Sucha Beskidzka, ul. Nieszczyńskiej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.966008,
+                    49.608647
+                ]
+            },
+            "properties": {
+                "id": 10446,
+                "name": "Rabka-Zdrój, ul. Orkana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.245275,
+                    50.033083
+                ]
+            },
+            "properties": {
+                "id": 10814,
+                "name": "Oświęcim, ul. J. Bema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.564044,
+                    50.284
+                ]
+            },
+            "properties": {
+                "id": 11301,
+                "name": "Olkusz, ul. Cegielniana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.800639,
+                    50.116028
+                ]
+            },
+            "properties": {
+                "id": 11434,
+                "name": "Zabierzów, ul. Wapienna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.923591,
+                    49.831237
+                ]
+            },
+            "properties": {
+                "id": 16753,
+                "name": "Myślenice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.034878,
+                    49.476675
+                ]
+            },
+            "properties": {
+                "id": 16894,
+                "name": "Nowy Targ, al. Tysiąclecia "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.178087,
+                    49.440175
+                ]
+            },
+            "properties": {
+                "id": 17118,
+                "name": "Wysowa-Zdrój, Park Zdrojowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.890522,
+                    49.350042
+                ]
+            },
+            "properties": {
+                "id": 17138,
+                "name": "Muszyna, Lodowisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.004724,
+                    52.219298
+                ]
+            },
+            "properties": {
+                "id": 530,
+                "name": "Warszawa, al. Niepodległości"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.933018,
+                    52.285073
+                ]
+            },
+            "properties": {
+                "id": 538,
+                "name": "Warszawa, ul. Tołstoja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.033819,
+                    52.160772
+                ]
+            },
+            "properties": {
+                "id": 550,
+                "name": "Warszawa, ul. Wokalna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.042458,
+                    52.290864
+                ]
+            },
+            "properties": {
+                "id": 552,
+                "name": "Warszawa, ul. Kondratowicza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.906073,
+                    52.207742
+                ]
+            },
+            "properties": {
+                "id": 10955,
+                "name": "Warszawa, ul. Chrościckiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.176233,
+                    52.188474
+                ]
+            },
+            "properties": {
+                "id": 10956,
+                "name": "Warszawa, ul. Bajkowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.963383,
+                    52.281304
+                ]
+            },
+            "properties": {
+                "id": 16533,
+                "name": "Warszawa, IMiGW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.687672,
+                    52.556279
+                ]
+            },
+            "properties": {
+                "id": 497,
+                "name": "Płock, ul. Królowej Jadwigi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.709791,
+                    52.550938
+                ]
+            },
+            "properties": {
+                "id": 501,
+                "name": "Płock, ul. Reja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.147474,
+                    51.399084
+                ]
+            },
+            "properties": {
+                "id": 515,
+                "name": "Radom, ul. Tochtermana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.791912,
+                    51.835242
+                ]
+            },
+            "properties": {
+                "id": 460,
+                "name": "Belsk Duży, IGF PAN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.454653,
+                    52.285858
+                ]
+            },
+            "properties": {
+                "id": 466,
+                "name": "Granica, KPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.955928,
+                    52.407578
+                ]
+            },
+            "properties": {
+                "id": 471,
+                "name": "Legionowo, ul. Zegrzyńska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.237297,
+                    52.115725
+                ]
+            },
+            "properties": {
+                "id": 485,
+                "name": "Otwock, ul. Brzozowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.837489,
+                    52.191728
+                ]
+            },
+            "properties": {
+                "id": 488,
+                "name": "Piastów, ul. Pułaskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.591539,
+                    53.136681
+                ]
+            },
+            "properties": {
+                "id": 9798,
+                "name": "Nakło nad Notecią, ul. Św. Wawrzyńca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.428751,
+                    53.40758
+                ]
+            },
+            "properties": {
+                "id": 12038,
+                "name": "Świecie, al. Jana Pawła II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.569133,
+                    51.259431
+                ]
+            },
+            "properties": {
+                "id": 266,
+                "name": "Lublin, ul. Obywatelska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.149389,
+                    52.029194
+                ]
+            },
+            "properties": {
+                "id": 236,
+                "name": "Biała Podlaska, ul. Orzechowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.972375,
+                    51.814367
+                ]
+            },
+            "properties": {
+                "id": 248,
+                "name": "Jarczew, IMGW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.625944,
+                    51.78
+                ]
+            },
+            "properties": {
+                "id": 275,
+                "name": "Radzyń Podlaski, ul. Sitkowskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.598608,
+                    51.163542
+                ]
+            },
+            "properties": {
+                "id": 282,
+                "name": "Wilczopole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.290247,
+                    50.716628
+                ]
+            },
+            "properties": {
+                "id": 285,
+                "name": "Zamość, ul. Hrubieszowska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.982861,
+                    50.551894
+                ]
+            },
+            "properties": {
+                "id": 10874,
+                "name": "Florianka, RPN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.473075,
+                    51.122147
+                ]
+            },
+            "properties": {
+                "id": 11360,
+                "name": "Chełm, ul. Połaniecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.373159,
+                    51.931032
+                ]
+            },
+            "properties": {
+                "id": 12100,
+                "name": "Łuków, Bulwar 100-lecia Odzyskania Niepodległości "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.228667,
+                    52.738214
+                ]
+            },
+            "properties": {
+                "id": 361,
+                "name": "Gorzów Wlkp. ul. Kosynierów Gdyńskich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.518861,
+                    51.939783
+                ]
+            },
+            "properties": {
+                "id": 387,
+                "name": "Zielona Góra ul. Krótka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.481077,
+                    51.936249
+                ]
+            },
+            "properties": {
+                "id": 11294,
+                "name": "Zielona Góra,ul.Wyszyńskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.206667,
+                    52.172222
+                ]
+            },
+            "properties": {
+                "id": 374,
+                "name": "Smolary Bytnickie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.122444,
+                    52.437722
+                ]
+            },
+            "properties": {
+                "id": 376,
+                "name": "Sulęcin ul. Dudka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3175,
+                    51.799722
+                ]
+            },
+            "properties": {
+                "id": 379,
+                "name": "Wschowa ul. Kazimierza Wielkiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.127808,
+                    51.642656
+                ]
+            },
+            "properties": {
+                "id": 382,
+                "name": "Żary, ul. Szymanowskiego "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.044164,
+                    53.175214
+                ]
+            },
+            "properties": {
+                "id": 11576,
+                "name": "Bydgoszcz, ul. Jeździecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.605681,
+                    53.012475
+                ]
+            },
+            "properties": {
+                "id": 145,
+                "name": "Toruń, ul. Wały gen. Sikorskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.666103,
+                    53.028647
+                ]
+            },
+            "properties": {
+                "id": 206,
+                "name": "Toruń, ul. Dziewulskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.612808,
+                    53.017628
+                ]
+            },
+            "properties": {
+                "id": 208,
+                "name": "Toruń, ul. Przy Kaszowniku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.059314,
+                    52.658467
+                ]
+            },
+            "properties": {
+                "id": 225,
+                "name": "Włocławek, ul. Okrzei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.044486,
+                    52.637394
+                ]
+            },
+            "properties": {
+                "id": 9791,
+                "name": "Włocławek, ul. Kaliska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.762139,
+                    53.49355
+                ]
+            },
+            "properties": {
+                "id": 142,
+                "name": "Grudziądz, ul. Piłsudskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.241044,
+                    52.793122
+                ]
+            },
+            "properties": {
+                "id": 143,
+                "name": "Inowrocław, ul. Solankowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.780908,
+                    52.888422
+                ]
+            },
+            "properties": {
+                "id": 164,
+                "name": "Ciechocinek, ul. Tężniowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.684258,
+                    53.080647
+                ]
+            },
+            "properties": {
+                "id": 190,
+                "name": "Koniczynka, Pojezierze Chełmińskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.934017,
+                    53.662117
+                ]
+            },
+            "properties": {
+                "id": 232,
+                "name": "Zielonka, Bory Tucholskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.172544,
+                    54.193986
+                ]
+            },
+            "properties": {
+                "id": 966,
+                "name": "Koszalin, ul. Armii Krajowej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.211672,
+                    54.194114
+                ]
+            },
+            "properties": {
+                "id": 11336,
+                "name": "Koszalin, ul. Chopina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.382245,
+                    53.122325
+                ]
+            },
+            "properties": {
+                "id": 961,
+                "name": "Widuchowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.704556,
+                    53.698902
+                ]
+            },
+            "properties": {
+                "id": 983,
+                "name": "Szczecinek, ul. Przemysłowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.596342,
+                    54.179324
+                ]
+            },
+            "properties": {
+                "id": 10934,
+                "name": "Kołobrzeg, ul. Żółkiewskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.310728,
+                    54.377492
+                ]
+            },
+            "properties": {
+                "id": 17158,
+                "name": "Dąbki, ul. Sztormowa"
+            }
+        }
+    ]
+}

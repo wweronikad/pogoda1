@@ -1,0 +1,11 @@
+.location-search-button {
+  width: 6vh;
+  height: 6vh;
+  border: none;
+  border-radius: 9999px;
+  background: linear-gradient(to top right, #88b1e6, #486197);
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-size: medium;
+  cursor: pointer;
+}

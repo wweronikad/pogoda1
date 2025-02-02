@@ -1,0 +1,1285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.854166666666668,
+          54.58833333333334
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Ustka",
+        "kod stacji": "115",
+        "kod 9-znakowy": "354160115",
+        "data_od": "03.11.1997",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 3.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.961111111111112,
+          52.16277777777778
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Warszawa",
+        "kod stacji": "375",
+        "kod 9-znakowy": "352200375",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 106.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55666666666667,
+          51.21027777777778
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Wieluń",
+        "kod stacji": "455",
+        "kod 9-znakowy": "351180455",
+        "data_od": "26.03.1981",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 199.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.529444444444444,
+          51.55333333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Włodawa",
+        "kod stacji": "497",
+        "kod 9-znakowy": "351230497",
+        "data_od": "16.11.1977",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 177.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9,
+          51.10333333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Wrocław",
+        "kod stacji": "424",
+        "kod 9-znakowy": "351160424",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 120.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.960277777777776,
+          49.29388888888889
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Zakopane",
+        "kod stacji": "625",
+        "kod 9-znakowy": "349190625",
+        "data_od": "01.01.1994",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 852.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.205555555555556,
+          50.69833333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Zamość",
+        "kod stacji": "595",
+        "kod 9-znakowy": "350230595",
+        "data_od": "01.03.2015",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 223.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.155277777777776,
+          54.20444444444445
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Koszalin",
+        "kod stacji": "105",
+        "kod 9-znakowy": "354160105",
+        "data_od": "01.01.1976",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 33.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.025277777777779,
+          51.13611111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Zgorzelec",
+        "kod stacji": "405",
+        "kod 9-znakowy": "351150405",
+        "data_od": "02.11.2010",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "",
+        "wysokość [m npm]": 203.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.524722222222223,
+          51.93
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Zielona Góra",
+        "kod stacji": "400",
+        "kod 9-znakowy": "351150400",
+        "data_od": "10.11.1975",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 192.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.16222222222222,
+          53.10722222222223
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Białystok",
+        "kod stacji": "295",
+        "kod 9-znakowy": "353230295",
+        "data_od": "25.09.1970",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 148.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.002222222222223,
+          49.806666666666665
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Bielsko Biała",
+        "kod stacji": "600",
+        "kod 9-znakowy": "349190600",
+        "data_od": "28.09.2017",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 396.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5325,
+          53.71527777777778
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Chojnice",
+        "kod stacji": "235",
+        "kod 9-znakowy": "353170235",
+        "data_od": "10.01.1992",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 164.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.091666666666665,
+          50.81194444444444
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Częstochowa",
+        "kod stacji": "550",
+        "kod 9-znakowy": "350190550",
+        "data_od": "01.06.1998",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 293.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.54361111111111,
+          54.223333333333336
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Elbląg",
+        "kod stacji": "160",
+        "kod 9-znakowy": "354190160",
+        "data_od": "01.04.2013",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 189.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.934444444444445,
+          54.33361111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Gdańsk",
+        "kod stacji": "155",
+        "kod 9-znakowy": "354180155",
+        "data_od": "01.01.2013",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 7.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.277222222222223,
+          52.74111111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Gorzów",
+        "kod stacji": "300",
+        "kod 9-znakowy": "352150300",
+        "data_od": "21.11.1974",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 71.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.811944444444446,
+          54.603611111111114
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Hel",
+        "kod stacji": "135",
+        "kod 9-znakowy": "354180135",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.78888888888889,
+          50.900277777777774
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Jelenia Góra",
+        "kod stacji": "500",
+        "kod 9-znakowy": "350150500",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.080833333333334,
+          51.78111111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kalisz",
+        "kod stacji": "435",
+        "kod 9-znakowy": "351180435",
+        "data_od": "31.10.1985",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 138.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.981944444444444,
+          49.2325
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kasprowy Wierch",
+        "kod stacji": "650",
+        "kod 9-znakowy": "349190650",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 1990.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.032777777777778,
+          50.24055555555556
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Katowice",
+        "kod stacji": "560",
+        "kod 9-znakowy": "350190560",
+        "data_od": "16.10.2007",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 278.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.366666666666667,
+          54.06722222222223
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kętrzyn",
+        "kod stacji": "185",
+        "kod 9-znakowy": "354210185",
+        "data_od": "21.08.1970",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 106.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.692222222222224,
+          50.81055555555555
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kielce",
+        "kod stacji": "570",
+        "kod 9-znakowy": "350200570",
+        "data_od": "01.05.1974",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 260.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.61416666666667,
+          50.43694444444444
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kłodzko",
+        "kod stacji": "520",
+        "kod 9-znakowy": "350160520",
+        "data_od": "03.08.1976",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 356.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.660277777777775,
+          52.19972222222222
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Koło",
+        "kod stacji": "345",
+        "kod 9-znakowy": "352180345",
+        "data_od": "2009-11-10",
+        "data_do": "2020-12-28",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 115.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.38888888888889,
+          54.15861111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kołobrzeg",
+        "kod stacji": "100",
+        "kod 9-znakowy": "354150100",
+        "data_od": "09.04.2018",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 4.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.155277777777776,
+          54.20444444444445
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Koszalin",
+        "kod stacji": "105",
+        "kod 9-znakowy": "354160105",
+        "data_od": "01.01.1976",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 33.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54361111111111,
+          51.56472222222222
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kozienice",
+        "kod stacji": "488",
+        "kod 9-znakowy": "351210488",
+        "data_od": "26.03.1981",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.795,
+          50.07777777777778
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kraków",
+        "kod stacji": "566",
+        "kod 9-znakowy": "350190566",
+        "data_od": "1966-01-01",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 236.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.769166666666667,
+          49.70666666666667
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Krosno",
+        "kod stacji": "670",
+        "kod 9-znakowy": "349210670",
+        "data_od": "1985-01-01",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 330.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.20777777777778,
+          51.192499999999995
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Legnica",
+        "kod stacji": "415",
+        "kod 9-znakowy": "351160415",
+        "data_od": "1974-05-01",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.341666666666665,
+          49.46638888888889
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Lesko",
+        "kod stacji": "690",
+        "kod 9-znakowy": "349220690",
+        "data_od": "1980-11-12",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 420.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.534722222222225,
+          51.83555555555556
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Leszno",
+        "kod stacji": "418",
+        "kod 9-znakowy": "351160418",
+        "data_od": "1966-01-01",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 91.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.756944444444443,
+          54.55305555555555
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Lębork",
+        "kod stacji": "125",
+        "kod 9-znakowy": "354170125",
+        "data_od": "1983-09-09",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 39.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.393055555555556,
+          51.21666666666667
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Lublin",
+        "kod stacji": "495",
+        "kod 9-znakowy": "351220495",
+        "data_od": "01.05.1973",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 238.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.534722222222225,
+          54.75361111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Łeba",
+        "kod stacji": "120",
+        "kod 9-znakowy": "354170120",
+        "data_od": "01.07.1972",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.38722222222222,
+          51.718333333333334
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Łódź",
+        "kod stacji": "465",
+        "kod 9-znakowy": "351190465",
+        "data_od": "18.02.2015",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 174.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.58972222222222,
+          53.78916666666667
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Mikołajki",
+        "kod stacji": "280",
+        "kod 9-znakowy": "353210280",
+        "data_od": "01.01.1994",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 127.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.361111111111114,
+          53.10416666666667
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Mława",
+        "kod stacji": "270",
+        "kod 9-znakowy": "353200270",
+        "data_od": "01.01.1968",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 147.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.68861111111111,
+          49.62722222222222
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Nowy Sącz",
+        "kod stacji": "660",
+        "kod 9-znakowy": "349200660",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 292.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.42138888888889,
+          53.76861111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Olsztyn",
+        "kod stacji": "272",
+        "kod 9-znakowy": "353200272",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 133.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.968888888888888,
+          50.62694444444445
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Opole",
+        "kod stacji": "530",
+        "kod 9-znakowy": "350170530",
+        "data_od": "29.05.1990",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 163.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.53388888888889,
+          53.06583333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Ostrołęka",
+        "kod stacji": "285",
+        "kod 9-znakowy": "353210285",
+        "data_od": "2000-05-01",
+        "data_do": "2000-05-01",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "",
+        "wysokość [m npm]": 94.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.747222222222224,
+          53.13055555555555
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Piła",
+        "kod stacji": "230",
+        "kod 9-znakowy": "353160230",
+        "data_od": "12.10.1970",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 72.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.72583333333333,
+          52.58833333333334
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Płock",
+        "kod stacji": "360",
+        "kod 9-znakowy": "352190360",
+        "data_od": "24.01.1978",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 106.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.834722222222222,
+          52.416666666666664
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Poznań",
+        "kod stacji": "330",
+        "kod 9-znakowy": "352160330",
+        "data_od": "28.10.1999",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 88.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.771944444444443,
+          49.80416666666667
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Przemyśl",
+        "kod stacji": "695",
+        "kod 9-znakowy": "349220695",
+        "data_od": "2000-07-01",
+        "data_do": "2000-07-01",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "",
+        "wysokość [m npm]": 279.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.190833333333334,
+          50.06111111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Racibórz",
+        "kod stacji": "540",
+        "kod 9-znakowy": "350180540",
+        "data_od": "25.06.2002",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 206.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.393333333333333,
+          53.76361111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Resko",
+        "kod stacji": "210",
+        "kod 9-znakowy": "353150210",
+        "data_od": "15.10.2018",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 52.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.042222222222225,
+          50.11083333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Rzeszów",
+        "kod stacji": "580",
+        "kod 9-znakowy": "350220580",
+        "data_od": "30.06.2016",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 206.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.715833333333332,
+          50.696666666666665
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Sandomierz",
+        "kod stacji": "585",
+        "kod 9-znakowy": "350210585",
+        "data_od": "01.09.1972",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 217.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.244722222222222,
+          52.18111111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Siedlce",
+        "kod stacji": "385",
+        "kod 9-znakowy": "352220385",
+        "data_od": "29.12.1982",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 152.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.619722222222222,
+          52.34861111111111
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Słubice",
+        "kod stacji": "310",
+        "kod 9-znakowy": "352140310",
+        "data_od": "01.03.2011",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 53.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.866388888888892,
+          51.35333333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Sulejów",
+        "kod stacji": "469",
+        "kod 9-znakowy": "351190469",
+        "data_od": "30.06.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 188.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.948888888888888,
+          54.130833333333335
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Suwałki",
+        "kod stacji": "195",
+        "kod 9-znakowy": "354220195",
+        "data_od": "20.10.1967",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 184.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.622777777777777,
+          53.39527777777778
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Szczecin",
+        "kod stacji": "205",
+        "kod 9-znakowy": "353140205",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.746666666666666,
+          53.717777777777776
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Szczecinek",
+        "kod stacji": "215",
+        "kod 9-znakowy": "353160215",
+        "data_od": "2000-05-01",
+        "data_do": "2000-05-01",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "",
+        "wysokość [m npm]": 139.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.739722222222222,
+          50.73638888888889
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Śnieżka",
+        "kod stacji": "510",
+        "kod 9-znakowy": "350150510",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 1603.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.54361111111111,
+          51.56472222222222
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Kozienice",
+        "kod stacji": "488",
+        "kod 9-znakowy": "351210488",
+        "data_od": "26.03.1981",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 123.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.242222222222221,
+          53.92333333333333
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Świnoujście",
+        "kod stacji": "200",
+        "kod 9-znakowy": "353140200",
+        "data_od": "03.07.2009",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 4.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.983888888888888,
+          50.03
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Tarnów",
+        "kod stacji": "575",
+        "kod 9-znakowy": "350200575",
+        "data_od": "01.01.1966",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.621944444444445,
+          52.078611111111115
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Terespol",
+        "kod stacji": "399",
+        "kod 9-znakowy": "352230399",
+        "data_od": "15.07.1968",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 133.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.595555555555553,
+          53.04194444444444
+        ]
+      },
+      "properties": {
+        "nazwa stacji": "Toruń",
+        "kod stacji": "250",
+        "kod 9-znakowy": "353180250",
+        "data_od": "04.12.1981",
+        "data_do": "",
+        "rodzaj stacji": "synoptyczna",
+        "rząd danych w CBDH": "synop",
+        "wysokość [m npm]": 69.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+
+.location-display {
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  font-weight: bold;
+  padding-left: 20px;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.location-left {
+  display: flex;
+  align-items: center;
+}
+
+.location-icon {
+  margin-right: 10px;
+  font-size: 26px;
+  color: #ffffff;
+}
+
+.location-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.location-city {
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+.sun-info {
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: white;
+  font-size: 16px;
+  padding-right: 40px;
+}

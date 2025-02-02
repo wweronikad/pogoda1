@@ -1,0 +1,71 @@
+.map-legend {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 1000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.legend-table {
+    border-collapse: collapse;
+}
+
+.legend-item {
+    height: 24px;
+}
+
+.legend-icon {
+    width: 24px;
+    text-align: center;
+}
+
+.legend-label {
+    font-size: 0.8rem;
+    color: #333;
+    padding-left: 8px;
+}
+  
+.collapsible-header {
+    cursor: pointer;
+}
+
+.collapsible-label {
+    display: flex;
+    align-items: center;
+}
+
+.collapsible-label .collapsible-title {
+    margin-left: 8px;
+}
+
+.indented .legend-label {
+    padding-left: 24px;
+}
+
+.indented-content {
+    display: flex;
+    align-items: center;
+}
+
+.indented-content i {
+    margin-right: 8px;
+}
+
+.air-quality-link {
+    font-size: 12px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.air-quality-link:hover {
+    text-decoration: underline;
+}
+
+
+.info-collapsible-label .collapsible-title {
+    font-size: 12px;
+}
+
